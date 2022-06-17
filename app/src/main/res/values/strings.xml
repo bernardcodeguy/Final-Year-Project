@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">DermCop</string>
+    <string name="title_home">Home</string>
+    <string name="title_more">More</string>
+    <string name="title_camera">Camera</string>
+
+    <string name="button_login">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Email Address</string>
+    <string name="enter_password">Password</string>
+    <string name="forgotten_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an Account? Register here</string>
+    <string name="check_email">Check your email</string>
+    <string name="code_explanation">Insert the code you received in the email we send you</string>
+    <string name="code">Code</string>
+    <string name="upload">Upload Code</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="birth_date_string">Birth Date: </string>
+    <string name="enter_name">Full Name</string>
+    <string name="back_string">Back</string>
+    <string name="next_string">Next</string>
+    <string name="terms_and_conds">Terms and Conditions</string>
+    <string name="reset_password_info">To reset your password we just need your email address</string>
+    <string name="reset_your_password">Reset Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_password_explanation">Type in your new password below, and then type it a second time</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="register">Register</string>
+    <string name="button_register">Register</string>
+    <string name="reset_password_instructions">Type in your e-mail address below and we will send you a code</string>
+    <string name="email2">Email Address</string>
+    <string name="send_code">Send Code</string>
+    <string name="accept_string">Accept</string>
+
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+
+
+    <!-- skin cancer names -->
+    <string name="send_skin_scan_text">If you\'re happy with the picture tap below for results.</string>
+    <string name="skin_cancer_diagnosis">Skin Cancer Diagnosis</string>
+    <string name="risk_info">This is based on a comparison with thousands of confirmed skin cancer images. While reliable for well centered images of moles and skin lesions, images of anything else will be incoherent.</string>
+    <string name="low_risk_info">This is NOT a diagnosis, if you are unsure please seek a medical professional who can provide a more informed diagnosis.</string>
+    <string name="high_risk_info">This is NOT a diagnosis, we advise that you seek a medical professional\'s opinion based on the algorithms results.</string>
+    <!-- skin cancer names -->
+
+
+    <string-array name="terms_and_conditions">
+    <item>1. TERMS OF USE
+
+</item>
+
+        <item>
+             This application was developed for educational purpose and not a final diagnostic tool
+        </item>
+
+    </string-array>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_hospital_mapp">HospitalMapp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_hospital_map">HospitalMap</string>
+    <string name="google_maps_key">AIzaSyAeE7H1dvfGSDg7mtaLPgiEa0LiBZkkZFs</string>
+</resources>

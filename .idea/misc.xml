@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/drawable-v24/ic_baseline_circle_camera_24dp.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/drawable/ic_home.xml" value="0.36574074074074076" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_gallery.xml" value="0.21875" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_hospital_map.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_inform.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_main1.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_maps.xml" value="0.34375" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/activity_uvindex.xml" value="0.33152173913043476" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/actvity_maps.xml" value="0.25547445255474455" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/fragment_first2.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/fragment_second.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/fragment_second2.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/layout_map.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_fragment_enter_code.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_fragment_login.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_fragment_login1.xml" value="0.2046875" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_fragment_new_password.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/login_fragment_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/skin_cancer_activity_camera.xml" value="0.21875" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/skin_cancer_camera_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/skin_cancer_fragment_result.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/skin_cancer_gallery_fragment.xml" value="0.21875" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/layout/skin_cancer_image_fragment.xml" value="0.21875" />
+        <entry key="..\:/Users/Bern Ard/AndroidStudioProjects/SkinAppPAD/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

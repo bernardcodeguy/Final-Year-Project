@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798795270443",
+    "project_id": "dermpad-aa63c",
+    "storage_bucket": "dermpad-aa63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798795270443:android:fa4e665668f1292498dd6e",
+        "android_client_info": {
+          "package_name": "com.app.dermcop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798795270443-ifi2psaao16dr9ngrq67k833su91mhbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_cSqIPhAAW0Gbd9dBRPb0f8tj68INS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798795270443-ifi2psaao16dr9ngrq67k833su91mhbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
